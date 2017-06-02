@@ -1,0 +1,100 @@
+															/* CSS for diepio Website with Class Guides */
+
+body {
+	color: #000;
+	background-color: #FFF;
+	margin: 0px 125px 0px;
+	font-family: ubuntu, sans-serif;
+}
+body center {
+ 	display: block;
+ 	text-align: center;	
+ 	position: relative;
+	font-size: 200%;
+}
+
+h1 {
+	color: #4285F4;
+	text-align: center;
+	position: relative;
+	font-family: ubuntu, sans-serif;
+	font-size: 80px;
+}
+
+h2 {
+	color: #9D67FF;
+	font-family: ubuntu, sans-serif;
+	font-size: 40px;
+	margin: 0px;
+	padding: 0px;
+}
+
+h3 {
+	color: #F277F7;
+	font-family: ubuntu, sans-serif;
+	font-size: 30px;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font-family: ubuntu, sans-serif;
+	color: #000;
+}
+
+img {
+	max-width: 100%;
+	padding: 25px;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+}
+
+.img_small {
+	width: 75%;
+}
+
+.page_title {
+	color: #4285F4;
+	position: relative;
+	font-family: ubuntu, sans-serif;
+	font-size: 60px;
+}
+
+.center {
+	text-align: center;
+}
+
+.center_other {
+	align-content: center;
+}
+/*List of Helpful Links*/
+ul {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #FFF;
+	font-size: 20px;
+}
+
+li {
+	display: inline;
+	list-style-type: none;
+	float: left;
+}
+
+li a {
+	display: block; 
+	color: #777777;
+	text-align: center;
+	padding: 10px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	color: #222222;
+}
